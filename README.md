@@ -1,1 +1,2 @@
 # COVID-19-tracker
+HTML, JAVASCRIPT, CSS
